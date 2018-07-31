@@ -1,0 +1,222 @@
+[
+	{
+		"name": "Iron Man",
+		"imdb": "/title/tt0371746",
+		"date": "02-05-2008"
+	},
+	{
+		"name": "The Incredible Hulk",
+		"imdb": "/title/tt0800080",
+		"date": "13-06-2008"
+	},
+	{
+		"name": "Iron Man 2",
+		"imdb": "/title/tt1228705",
+		"date": "07-05-2010"
+	},
+	{
+		"name": "Thor",
+		"imdb": "/title/tt0800369",
+		"date": "06-05-2011"
+	},
+	{
+		"name": "Captain America: The First Avenger",
+		"imdb": "/title/tt0458339",
+		"date": "22-07-2011"
+	},
+	{
+		"name": "The Avengers",
+		"imdb": "/title/tt0848228",
+		"date": "04-05-2012"
+	},
+	{
+		"name": "Iron Man 3",
+		"imdb": "/title/tt1300854",
+		"date": "03-05-2013"
+	},
+	{
+		"name": "Thor: The Dark World",
+		"imdb": "/title/tt1981115",
+		"date": "08-11-2013"
+	},
+	{
+		"name": "Captain America: The Winter Soldier",
+		"imdb": "/title/tt1843866",
+		"date": "04-04-2014"
+	},
+	{
+		"name": "Guardians of the Galaxy",
+		"imdb": "/title/tt2015381",
+		"date": "01-08-2014"
+	},
+	{
+		"name": "Avengers: Age of Ultron",
+		"imdb": "/title/tt2395427",
+		"date": "01-05-2015"
+	},
+	{
+		"name": "Ant-Man",
+		"imdb": "/title/tt0478970",
+		"date": "17-07-2015"
+	},
+	{
+		"name": "Captain America: Civil War",
+		"imdb": "/title/tt3498820",
+		"date": "06-05-2016"
+	},
+	{
+		"name": "Doctor Strange",
+		"imdb": "/title/tt1211837",
+		"date": "04-11-2016"
+	},
+	{
+		"name": "Guardians of the Galaxy Vol. 2",
+		"imdb": "/title/tt3896198",
+		"date": "05-05-2017"
+	},
+	{
+		"name": "Spider-Man: Homecoming",
+		"imdb": "/title/tt2250912",
+		"date": "07-07-2017"
+	},
+	{
+		"name": "Thor: Ragnarok",
+		"imdb": "/title/tt3501632",
+		"date": "03-11-2017"
+	},
+	{
+		"name": "Black Panther",
+		"imdb": "/title/tt1825683",
+		"date": "16-02-2018"
+	},
+	{
+		"name": "Avengers: Infinity War",
+		"imdb": "/title/tt4154756",
+		"date": "27-04-2018"
+	},
+	{
+		"name": "Ant-Man and the Wasp",
+		"imdb": "/title/tt5095030",
+		"date": "06-07-2018"
+	},
+	{
+		"name": "Captain Marvel",
+		"imdb": "/title/tt4154664",
+		"date": "08-03-2019"
+	},
+	{
+		"name": "Untitled Avengers Movie",
+		"imdb": "/title/tt4154796",
+		"date": "03-05-2019"
+	},
+	{
+		"name": "Spider-Man: Far From Home",
+		"imdb": "/title/tt6320628",
+		"date": "05-07-2019"
+	},
+	{
+		"name": "Guardians of the Galaxy Vol. 3",
+		"imdb": "/title/tt6791350",
+		"date": "01-01-2020"
+	},
+	{
+		"name": "Daredevil",
+		"imdb": "/title/tt3322312",
+		"date": "10-04-2015"
+	},
+	{
+		"name": "Jessica Jones",
+		"imdb": "/title/tt2357547",
+		"date": "20-11-2015"
+	},
+	{
+		"name": "Luke Cage",
+		"imdb": "/title/tt3322314",
+		"date": "30-09-2016"
+	},
+	{
+		"name": "Iron Fist",
+		"imdb": "/title/tt3322310",
+		"date": "17-03-2017"
+	},
+	{
+		"name": "Defenders",
+		"imdb": "/title/tt4230076",
+		"date": "18-08-2017"
+	},
+	{
+		"name": "The Punisher",
+		"imdb": "/title/tt5675620",
+		"date": "17-11-2017"
+	},
+	{
+		"name": "WHIH News Front",
+		"imdb": "/title/tt5296048",
+		"date": "02-07-2015"
+	},
+	{
+		"name": "Agents of S.H.I.E.L.D.: Slingshot",
+		"imdb": "/title/tt6313900",
+		"date": "13-12-2016"
+	},
+	{
+		"name": "Agent Carter",
+		"imdb": "/title/tt3475734",
+		"date": "06-01-2015"
+	},
+	{
+		"name": "Agents of S.H.I.E.L.D.",
+		"imdb": "/title/tt2364582",
+		"date": "24-09-2013"
+	},
+	{
+		"name": "Marvel One-Shot: The Consultant",
+		"imdb": "/title/tt2011118",
+		"date": "13-09-2011"
+	},
+	{
+		"name": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+		"imdb": "/title/tt2011109",
+		"date": "25-10-2011"
+	},
+	{
+		"name": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+		"imdb": "/title/tt2011109",
+		"date": "25-10-2011"
+	},
+	{
+		"name": "Marvel One-Shot: Agent Carter",
+		"imdb": "/title/tt3067038",
+		"date": "24-11-2013"
+	},
+	{
+		"name": "Marvel One-Shot: Item 47",
+		"imdb": "/title/tt2247732",
+		"date": "25-11-2012"
+	},
+	{
+		"name": "Marvel One-Shot: All Hail the King",
+		"imdb": "/title/tt3438640",
+		"date": "04-02-2014"
+	},
+	{
+		"name": "Inhumans",
+		"imdb": "/title/tt4154858",
+		"date": "31-08-2017"
+	},
+	{
+		"name": "Runaways",
+		"imdb": "/title/tt1236246",
+		"date": "21-11-2017"
+	},
+	{
+		"name": "Cloak & Dagger",
+		"imdb": "/title/tt5614844",
+		"date": "07-06-2018"
+	},
+	{
+		"name": "New Warriors",
+		"imdb": "/title/tt6742558",
+		"date": "01-11-2018"
+	}
+]
