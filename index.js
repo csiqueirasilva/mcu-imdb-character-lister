@@ -31,7 +31,7 @@ const extractActorRoles = scavenger.createExtractor({
 });
 
 const csvHeader = ['role', 'actorname', 'actorimdb', 'titlename', 'titleimdb'];
-const csvOptions = {header: true, columns: csvHeader, delimiter: ';', quoted: true};
+const csvOptions = {header: true, columns: csvHeader, delimiter: ',', quoted: true};
 
 function fetchCastList() {
 	var castList = mcuProperties.shift();
